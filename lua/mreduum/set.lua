@@ -1,14 +1,15 @@
-vim.opt.mouse = 'a'
+vim.o.mouse = 'a'
 
-vim.opt.nu = true
+vim.o.number = true
 
-vim.opt.tabstop = 4
-vim.opt.shiftwidth = 4
-vim.opt.expandtab = true
+vim.o.tabstop = 4
+vim.o.shiftwidth = 4
+vim.o.expandtab = true
 
-vim.opt.clipboard = 'unnamedplus'
+vim.o.clipboard = 'unnamedplus'
 
-vim.opt.termguicolors = true
+vim.o.termguicolors = true
 
-vim.opt.wrap = false
+vim.o.wrap = false
 
+vim.cmd.colorscheme('slate')
