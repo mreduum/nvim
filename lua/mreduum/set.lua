@@ -12,4 +12,3 @@ vim.opt.termguicolors = true
 
 vim.opt.wrap = false
 
-vim.cmd('syntax enable')
