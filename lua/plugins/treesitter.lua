@@ -9,7 +9,9 @@ return{
             'php', 'phpdoc',
             'python', 
             'javascript', 'html', 'css',
-            'json','sql', 'dockerfile'
+            'json','sql', 'dockerfile', 'gitignore',
+            'bash',
+            'c'
         },
         highlight = {enable = true},
         indent = {enable = true}
