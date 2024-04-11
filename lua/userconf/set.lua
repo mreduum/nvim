@@ -13,3 +13,4 @@ vim.opt.termguicolors = true
 
 vim.opt.wrap = false
 
+vim.g.mapleader = ' '
